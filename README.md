@@ -4,7 +4,7 @@ Certificates and verification code for:
 
 **Zhimao Wang and Amitabh Basu. [Representing MAX functions using two-hidden-layer ReLU networks](https://arxiv.org/abs/2608.25221). arXiv:2608.25221, 2026.**
 
-The certificates express $2\operatorname{MAX}_N(x)=2\max\{x_1,\ldots,x_N\}$ as rational linear combinations of nested maximum expressions, for $N=5,6,7,8$. Each expression has a two-hidden-layer ReLU realization. Verification uses the authors' rank-counting method.
+The certificates express $`2\mathrm{MAX}_N(x)=2\max\{x_1,\ldots,x_N\}`$ as rational linear combinations of nested maximum expressions, for $N=5,6,7,8$. Each expression has a two-hidden-layer ReLU realization. Verification uses the authors' rank-counting method.
 
 ## Run the verifier
 
