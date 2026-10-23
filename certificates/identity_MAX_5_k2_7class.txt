@@ -1,0 +1,8 @@
+2 MAX_5 =
+    -2/5 * T[aa aa | aa aa]
+    1/30 * T[aa aa | aa bc]
+    1/120 * T[aa aa | bc de]
+    1/60 * T[aa ab | aa cd]
+    1/60 * T[aa ab | ac de]
+    -1/60 * T[aa ab | bc de]
+    -1/60 * T[aa bc | ab de]

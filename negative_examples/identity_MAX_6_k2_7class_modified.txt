@@ -1,0 +1,8 @@
+2 MAX_6 =
+    -1/3 * T[aa aa | aa aa]
+    1/90 * T[aa ab | aa cd]
+    11/180 * T[aa ab | cd ef]
+    -1/360 * T[aa bb | cd ef]
+    1/180 * T[ab ac | ad ef]
+    -1/90 * T[ab ac | bd ef]
+    1/720 * T[ab ac | de df]

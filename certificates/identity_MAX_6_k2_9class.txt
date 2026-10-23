@@ -1,0 +1,10 @@
+2 MAX_6 =
+    1/45 * T[aa aa | bc bd]
+    2/15 * T[aa bb | ab ab]
+    1/180 * T[aa bb | cd cd]
+    1/90 * T[aa bb | cd dd]
+    -2/45 * T[aa bc | cd dd]
+    1/180 * T[ab cd | ce cf]
+    -1/180 * T[ab cd | ce ef]
+    -1/360 * T[ab cd | cf de]
+    1/720 * T[cd ef | ab ab]
